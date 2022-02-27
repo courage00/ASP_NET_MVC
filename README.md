@@ -1,7 +1,7 @@
-# MVCBASE ajax - ver2.0
+# 練習 
 功能說明: 
-使用ASP.NET MVC 透過ajax實作資料的 新增、修改、刪除、查詢
-使用表格: 
+使用ASP.NET MVC 透過ajax實作資料CRUD
+資料庫: 
 中文版北風資料庫【中文北風】，資料表【Employees】。
 
 事件說明 : 
